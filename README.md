@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gokberk</h1>
 <h3 align="center">A passionate Ios Developer from Ankara/Turkey</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozcgokberk" alt="ozcgokberk" /></a> </p>
+
 - 🔭 I’m currently working at **DivvyDrive A.Ş**
 
 - 📫 How to reach me **ozcangokberk06@gmail.com**
@@ -12,3 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozcgokberk&show_icons=true&locale=en&layout=compact" alt="ozcgokberk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozcgokberk&show_icons=true&locale=en" alt="ozcgokberk" /></p>
